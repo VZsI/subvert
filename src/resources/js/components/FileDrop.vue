@@ -49,6 +49,7 @@ const step = ref(1)
 const message = ref('Extracting audio')
 
 const languages = ref([
+    'Hungarian',
     'English',
     'Spanish',
     'French',
